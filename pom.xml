@@ -51,16 +51,16 @@
     <distributionManagement>
         <repository>
             <id>gitlab-maven</id>
-            <url>https://git.fuo.fi.com/api/v4/projects/137/packages/maven</url>
+            <url>https://git.fuo.fi/api/v4/projects/137/packages/maven</url>
         </repository>
         <snapshotRepository>
             <id>gitlab-maven</id>
-            <url>https://git.fuo.fi.com/api/v4/projects/137/packages/maven</url>
+            <url>https://git.fuo.fi/api/v4/projects/137/packages/maven</url>
         </snapshotRepository>
     </distributionManagement>
 
     <scm>
-        <developerConnection>scm:git:git@gitlab.com:thevipershowita/RuntimeCore.git</developerConnection>
+        <developerConnection>scm:git:git@git.fuo.fi:thevipershowita/RuntimeCore.git</developerConnection>
         <tag>ALPHA</tag>
     </scm>
 
