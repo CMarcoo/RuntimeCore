@@ -4,7 +4,7 @@
 
     <groupId>top.cmarco</groupId>
     <artifactId>RuntimeCore</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <packaging>jar</packaging>
 
     <name>RuntimeCore</name>
@@ -61,7 +61,7 @@
 
     <scm>
         <developerConnection>scm:git:git@git.fuo.fi:thevipershowita/RuntimeCore.git</developerConnection>
-        <tag>ALPHA</tag>
+        <tag>TEST</tag>
     </scm>
 
 
