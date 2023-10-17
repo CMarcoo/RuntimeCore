@@ -1,7 +1,5 @@
 package top.cmarco.runtimecore.annotations;
 
-import org.jetbrains.annotations.NotNull;
-
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
@@ -32,7 +30,7 @@ public @interface SpigotVersion {
      * You can use the `version` field to communicate the version compatibility of classes, methods,
      * constructors, or fields within your code.
      *
-     * @return A string representing the minimum required Spigot version.
+     * @return A notnull string representing the minimum required Spigot version.
      */
-    @NotNull String version();
+    String version();
 }
