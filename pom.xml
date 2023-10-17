@@ -60,7 +60,7 @@
     </distributionManagement>
 
     <scm>
-        <developerConnection>scm:git:git@gitlab.com:thevipershowita/https://git.fuo.fi/thevipershowita/RuntimeCore.git</developerConnection>
+        <developerConnection>scm:git:git@gitlab.com:thevipershowita/RuntimeCore.git</developerConnection>
         <tag>ALPHA</tag>
     </scm>
 
