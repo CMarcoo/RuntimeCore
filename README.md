@@ -35,3 +35,16 @@ public final class App implements RuntimePlugin {
     }
 }
 ```
+
+### Example: Maven POM.xml
+
+```xml
+  <dependencies>
+    <dependency>
+      <groupId>top.cmarco</groupId>
+      <artifactId>RuntimeCore</artifactId>
+      <version>1.0.0</version>
+      <scope>provided</scope>
+    </dependency>
+  </dependencies>
+```
